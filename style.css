@@ -13,7 +13,7 @@
 
 .post{
     background: #fff;
-    padding: 10px;
+    /* padding: 10px; */
     border: 3px solid;
     border-color: blue;
     margin: 5px;
@@ -21,7 +21,7 @@
 
 .post2{
     background:orange;
-    padding: 10px;
+    /* padding: 10px; */
     border: 3px solid;
     border-color: brown;
     margin: 5px;
@@ -29,7 +29,7 @@
 
 .post3{
     background:orange;
-    padding-top: 15px;
+    /* padding-top: 15px; */
     margin-right: 10px;
     padding-bottom: 5px;
     margin-left: 0;
@@ -38,9 +38,10 @@
     
 }
 
-/*.box{
-    padding:15px 10px 5px 0px
-}*/
+/* sentido horario à partir de 12h */
+.box{
+    padding:15px 10px 5px 0px 
+}
 
 
 .text{
