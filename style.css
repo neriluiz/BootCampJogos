@@ -6,3 +6,23 @@
     font-size: 16px;
     font-style: italic;
 }
+
+.body{
+    background: #fcfc;
+}
+
+.post{
+    background: #fff;
+    padding: 10px;
+    border: 3px solid;
+    border-color: blue;
+    margin: 10px;
+}
+
+.post2{
+    background:orange;
+    padding: 10px;
+    border: 3px solid;
+    border-color: brown;
+    margin: 10px;
+}
