@@ -17,6 +17,10 @@ a {
     background: transparent;
 }
 
+.post_image {
+    width: 100%;
+}
+
 .post-title {
     font-size: 16px;
     font-style: italic;
@@ -28,6 +32,8 @@ a {
     margin-top: 15px;
     border-radius: 5px;
     font-family: Verdana;
+    max-width: 900px;
+    margin: auto;
 }
 
 .post{
@@ -68,11 +74,12 @@ a {
 
 .text{
     color: black;
+    text-transform: capitalize;
+    text-align: justify;
+    margin: 0;
+    margin-bottom: 15px;   
 }
 
-.post_content {
-    margin: 0;
-    margin-bottom: 15px;
 }
 
 .contacts_list {
